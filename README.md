@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @ds0ngsta
-- 👀 I’m interested in C coding language and python.
-- 🌱 I’m currently learning C coding language.
-- 💞️ I’m looking to collaborate on any coding projects.
-- 📫 How to reach me dshsong@ucdavis.edu
+Hello! My name is Sanghyeon Song and I am currently a senior majoring in computer science at the University of California, Davis. As an aspiring software engineer, I am eager to apply my problem-solving and analytical skills to tackle real-world challenges. With a strong foundation in programming languages such as Python, C++, C, Linux, React.js, Java, Javascript, HTML, CSS, JSON, MongoDB, Express API, Typescript, and Next.js. Further, I am confident in my ability to design, develop, and maintain software applications.
 
-<!---
-ds0ngsta/ds0ngsta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Aside from my professional interests, I am interested in basketball, music, and gaming!
+
+Feel free to reach me at my email dshsong@ucdavis.edu. Let's connect!
+
